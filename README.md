@@ -104,10 +104,16 @@ This will execute:
 
 Technologies Used:
 ------------------
+The following technologies were used to build the pipeline:
 
-* Python
-* PySpark
-* Parquet
-* SQL
-* Cron-based pipeline orchestration
+1. Programming Language: Python
+2. Data Processing: Apache Spark (PySpark)
+3. Data Storage: Parquet
+4. Data Modeling: Star Schema
+5. Query Layer: SQL for analytical queries
+6. Pipeline Orchestration: Airflow
+7. Development Tools: 
+	a. Git for Version Control
+	b. GitHub for Repository
+	c. IntelliJ IDEA for development
 
